@@ -2,17 +2,17 @@
   "team": [
     {
       "id": 1,
-      "image": "src/assets/user3.png",
+      "image": "public/img/user3.png",
       "name": "Devon Lane"
     },
     {
       "id": 2,
-      "image": "src/assets/user2.png",
+      "image": "public/img/user2.png",
       "name": "Danny Bailey"
     },
     {
       "id": 3,
-      "image": "src/assets/user1.png",
+      "image": "public/img/user1.png",
       "name": "Alex Lov"
     }
   ]
