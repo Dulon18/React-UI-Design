@@ -95,9 +95,9 @@ const HomePage = () => {
                                    <p className='uppercase text-xl text-success mt-8 py-3'>Work List</p>
                                    <p className='text-3xl font-poppins  font-bold mt-4'>We provide the Perfect Solution<br></br> to your business growth</p>
                               </div>
-                              <div className='grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 mt-8 gap-14'>
+                              <div className='grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 mt-8 gap-14 py-7'>
                                    {workList.map(list => (
-                                        <div key={list.id} className="group hover:h-158 hover:bg-white hover:shadow-2xl hover:rounded-2xl p-5">
+                                        <div key={list.id} className="group p-6 hover:h-158 hover:bg-white hover:shadow-2xl hover:rounded-2xl p-5">
                                              <div className="p-4 h-auto">
                                                   <img src="{list.image}" alt="" />
                                                   <h1 className="text-3xl font-bold my-5 font-poppins">{list.title}</h1>
@@ -111,7 +111,7 @@ const HomePage = () => {
 
                               </div>
                          </div>
-                         <div className="container mx-auto p-4">
+                         <div className="container mx-auto py-6">
                               <div className='grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 py-20 gap-1 md:gap-4'>
                                    {counterList.map(item => (
                                    <div key={item.id} className='py-8'>
