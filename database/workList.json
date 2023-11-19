@@ -1,0 +1,22 @@
+{
+  "workList": [
+    {
+      "id": 1,
+      "image": "src/assets/Activity.png",
+      "title": "Grow Your Business",
+      "description": "We help identify the best ways to improve your business"
+    },
+    {
+      "id": 2,
+      "image": "src/assets/Heart.png",
+      "title": "Improve brand loyalty",
+      "description": "We help identify the best ways to improve your business"
+    },
+    {
+      "id": 3,
+      "image": "src/assets/Work.png",
+      "title": "Improve Business Model",
+      "description": "We help identify the best ways to improve your business"
+    }
+  ]
+}
