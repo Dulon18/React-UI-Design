@@ -1,0 +1,52 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Build & Launch without problems",
+      "description":"Increase your team’s productivity and save time with a bot that answers and fields customer inquiries",
+      "cardImage": [
+
+               "src/assets/Rectangle 2095.png" ,
+               "src/assets/Rectangle 2096.png" ,
+               "src/assets/Rectangle 2097.png" ,
+               "src/assets/Rectangle 2098.png"
+    ]
+    },
+    {
+      "id": 2,
+      "title": "Build & Launch without problems",
+      "description":"Increase your team’s productivity and save time with a bot that answers and fields customer inquiries",
+      "cardImage":[
+
+          "src/assets/Rectangle 2099.png",
+          "src/assets/Rectangle 2100.png",
+          "src/assets/Rectangle 2101.png",
+          "src/assets/Rectangle 2102.png"
+     ]
+    },
+    {
+      "id": 3,
+      "title": "Build & Launch without problems",
+      "description":"Increase your team’s productivity and save time with a bot that answers and fields customer inquiries",
+      "cardImage": [
+          
+          "src/assets/Rectangle 2103.png",
+          "src/assets/Rectangle 2104.png",
+          "src/assets/Rectangle 2105.png",
+          "src/assets/Rectangle 2106.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Build & Launch without problems",
+      "description":"Increase your team’s productivity and save time with a bot that answers and fields customer inquiries",
+      "cardImage": [
+
+          "src/assets/Rectangle 2107.png",
+          "src/assets/Rectangle 2108.png",
+          "src/assets/Rectangle 2109.png",
+          "src/assets/Rectangle 2110.png"
+      ]
+    }
+  ]
+}
