@@ -2,35 +2,35 @@
   "featureProject": [
     {
       "id": 1,
-      "image": "public/img/Mask1.png",
+      "image":"/img/Mask1.png",
       "name": "App Design",
       "date": "June 20, 2022",
       "title": "App Redesign"
     },
     {
       "id": 2,
-      "image": "public/img/Mask.png",
+      "image": "/img/Mask.png",
       "name": "App Design",
       "date": "June 20, 2022",
       "title": "Redesign channel website landng page"
     },
     {
       "id": 3,
-       "image": "public/img/Mask4.png",
+       "image": "/img/Mask4.png",
       "name": "App Design",
       "date": "June 20, 2022",
       "title": "Redesign channel website landng page"
     },
       {
       "id": 4,
-       "image": "public/img/Mask2.png",
+       "image": "/img/Mask2.png",
       "name": "App Design",
       "date": "June 20, 2022",
       "title": "Redesign channel website landng page"
     }
     ,  {
       "id": 5,
-       "image": "public/img/Mask3.png",
+       "image": "/img/Mask3.png",
       "name": "App Design",
       "date": "June 20, 2022",
       "title": "Redesign channel website landng page"

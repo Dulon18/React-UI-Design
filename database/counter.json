@@ -2,25 +2,25 @@
   "counter": [
     {
       "id": 1,
-      "image": "public/img/Group 3.png",
+      "image": "/img/Group 3.png",
       "count_value": "240467",
       "objectName": "Followers"
     },
     {
       "id": 2,
-      "image": "public/img/Like.png",
+      "image": "/img/Like.png",
       "count_value": "63000",
       "objectName": "Solved Problem"
     },
     {
       "id": 3,
-      "image": "public/img/Happy 1.png",
+      "image": "/img/Happy 1.png",
       "count_value": "25000",
       "objectName": "Happy Customer"
     },
       {
       "id": 4,
-      "image": "public/img/Scan 3.png",
+      "image": "/img/Scan 3.png",
       "count_value": "360452",
       "objectName": "Projects"
     }
