@@ -62,7 +62,7 @@ const HomePage = () => {
                                    </div>
                                    <div className='grid justify-items-end flex-col py-4'>
                                         <div className='flex lg:flex-row mb-6'>
-                                             <img src="./img/rectangle1241.png" className=" w-auto rounded-lg shadow-2xl mx-5" />
+                                             <img src="./img/rectangle1241.JPG" className=" w-auto rounded-lg shadow-2xl mx-5" />
                                              <img src="./img/rectangle1242.png" className=" rounded-lg shadow-2xl" />
                                         </div>
                                         <div className='flex flex-row'>
