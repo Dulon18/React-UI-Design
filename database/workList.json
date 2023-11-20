@@ -2,19 +2,19 @@
   "workList": [
     {
       "id": 1,
-      "image": "./img/Activity.png",
+      "image": "public/img/Activity.png",
       "title": "Grow Your Business",
       "description": "We help identify the best ways to improve your business"
     },
     {
       "id": 2,
-      "image": "./img/Heart.png",
+      "image": "public/img/Heart.png",
       "title": "Improve brand loyalty",
       "description": "We help identify the best ways to improve your business"
     },
     {
       "id": 3,
-      "image": "./img/Work.png",
+      "image": "public/img/Work.png",
       "title": "Improve Business Model",
       "description": "We help identify the best ways to improve your business"
     }
