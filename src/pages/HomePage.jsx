@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 const HomePage = () => {
      const [workList,setWorkList] = useState([]);
      const [counterList,setCounters] = useState([]);
-     const [feature, setFeature] = useState([]);
+     // const [setFeature] = useState([]);
 
 
      useEffect(() => {
@@ -35,18 +35,18 @@ const HomePage = () => {
           fetchCounterData();
      }, []);
 
-     useEffect(() => {
-          const fetchFeatureData = async () => {
-               try {
-                    const response = await fetch('/database/featureProduct.json');
-                    const data = await response.json();
-                    setFeature(data.counter);
-               } catch (error) {
-                    console.error('Error fetching data:', error);
-               }
-          };
-          fetchFeatureData();
-     },[])
+     // useEffect(() => {
+     //      const fetchFeatureData = async () => {
+     //           try {
+     //                const response = await fetch('/database/featureProduct.json');
+     //                const data = await response.json();
+     //                setFeature(data.counter);
+     //           } catch (error) {
+     //                console.error('Error fetching data:', error);
+     //           }
+     //      };
+     //      fetchFeatureData();
+     // },[])
 
      return (
           <div style={{ background: '#D7F5DC' }}>
@@ -62,12 +62,12 @@ const HomePage = () => {
                                    </div>
                                    <div className='grid justify-items-end flex-col py-4'>
                                         <div className='flex lg:flex-row mb-6'>
-                                             <img src="src/assets/Rectangle 1241.png" className=" w-auto rounded-lg shadow-2xl mx-5" />
-                                             <img src="src/assets/Rectangle 1242.png" className=" rounded-lg shadow-2xl" />
+                                             <img src="/img/Rectangle 1241.png" className=" w-auto rounded-lg shadow-2xl mx-5" />
+                                             <img src="/img/Rectangle 1242.png" className=" rounded-lg shadow-2xl" />
                                         </div>
                                         <div className='flex flex-row'>
-                                             <img src="src/assets/Rectangle 1243.png" className=" rounded-lg shadow-2xl mx-5" />
-                                             <img src="src/assets/Rectangle 1244.png" className=" rounded-lg shadow-2xl" />
+                                             <img src="/img/Rectangle 1243.png" className=" rounded-lg shadow-2xl mx-5" />
+                                             <img src="/img/Rectangle 1244.png" className=" rounded-lg shadow-2xl" />
                                         </div>
                                    </div>
                               </div>
@@ -77,11 +77,11 @@ const HomePage = () => {
                          <div className='bg-white h-28 p-5'>
                               <div className='container mx-auto p-4 flex gap-32'>
                                    <div className='grid lg:grid-cols-5 md:grid-cols-5 sm:grid-cols-2' >
-                                        <div className='px-20 py-4'><img src="src/assets/logos_google.png" /></div>
-                                        <div className='px-20 py-4'><img src="src/assets/Trello-logo-blue 1.png" /></div>
-                                        <div className='px-20 py-4'><img src="src/assets/logos_monday.png" /></div>
-                                        <div className='px-20 py-4'><img src="src/assets/Notion.png" /></div>
-                                        <div className='px-20 py-4'><img src="src/assets/Slack.png" /></div>
+                                        <div className='px-20 py-4'><img src="/img/logos_google.png" /></div>
+                                        <div className='px-20 py-4'><img src="/img/Trello-logo-blue 1.png" /></div>
+                                        <div className='px-20 py-4'><img src="/img/logos_monday.png" /></div>
+                                        <div className='px-20 py-4'><img src="/img/Notion.png" /></div>
+                                        <div className='px-20 py-4'><img src="/img/Slack.png" /></div>
                                    </div>
                               </div>
                          </div>
