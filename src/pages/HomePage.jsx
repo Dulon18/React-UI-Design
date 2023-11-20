@@ -99,7 +99,7 @@ const HomePage = () => {
                                    {workList.map(list => (
                                         <div key={list.id} className="group p-6 hover:h-158 hover:bg-white hover:shadow-2xl hover:rounded-2xl p-5">
                                              <div className="p-4 h-auto">
-                                                  <img src="{list.image}" alt="" />
+                                                  <img src={list.image} alt="" />
                                                   <h1 className="text-3xl font-bold my-5 font-poppins">{list.title}</h1>
                                                   <p className='text-lg font-Avenir my-5'>{list.description}</p>
                                                   <button className="mt-5 capitalize group-hover:bg-orange-600 group-hover:rounded-xl group-hover:text-white group-hover:p-3 text-lg font-Avenir flex">Learn More
