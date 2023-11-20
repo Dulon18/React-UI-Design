@@ -2,28 +2,28 @@
   "testimonial": [
     {
       "id": 1,
-      "image": "/img/testimonial-3.png",
+      "image": "./img/testimonial3.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
       "name" : "Alice Bradley",
       "occupation": "Backend Developer"
     },
     {
       "id": 2,
-      "image": "/img/testimonial-1.png",
+      "image": "./img/testimonial1.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
       "name" : "Alice Bradley",
       "occupation": "Backend Developer"
     },
     {
       "id": 3,
-      "image": "/img/testimonial-5.png",
+      "image": "./img/testimonial5.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
       "name" : "Alice Bradley",
       "occupation": "Backend Developer"
     },
     {
       "id": 4,
-      "image": "/img/testimonial-4.png",
+      "image": "./img/testimonial4.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
       "name" : "Alice Bradley",
       "occupation": "Backend Developer"
@@ -31,7 +31,7 @@
     ,
     {
       "id": 5,
-      "image": "/img/testimonial-2.png",
+      "image": "./img/testimonial2.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
       "name" : "Alice Bradley",
       "occupation": "Backend Developer"
@@ -39,7 +39,7 @@
     ,
     {
       "id": 6,
-      "image": "/img/testimonial-6.png",
+      "image": "./img/testimonial6.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
       "name" : "Alice Bradley",
       "occupation": "Backend Developer"

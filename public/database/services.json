@@ -6,10 +6,10 @@
       "description":"Increase your team’s productivity and save time with a bot that answers and fields customer inquiries",
       "cardImage": [
 
-               "/img/Rectangle 2095.png" ,
-               "/img/Rectangle 2096.png" ,
-               "/img/Rectangle 2097.png" ,
-               "/img/Rectangle 2098.png"
+               "./img/Rectangle2095.png" ,
+               "./img/Rectangle2096.png" ,
+               "./img/Rectangle2097.png" ,
+               "./img/Rectangle2098.png"
     ]
     },
     {
@@ -18,10 +18,10 @@
       "description":"Increase your team’s productivity and save time with a bot that answers and fields customer inquiries",
       "cardImage":[
 
-          "/img/Rectangle 2099.png",
-          "/img/Rectangle 2100.png",
-          "/img/Rectangle 2101.png",
-          "/img/Rectangle 2102.png"
+          "./img/Rectangle2099.png",
+          "./img/Rectangle2100.png",
+          "./img/Rectangle2101.png",
+          "./img/Rectangle2102.png"
      ]
     },
     {
@@ -30,10 +30,10 @@
       "description":"Increase your team’s productivity and save time with a bot that answers and fields customer inquiries",
       "cardImage": [
 
-          "/img/Rectangle 2103.png",
-          "/img/Rectangle 2104.png",
-          "/img/Rectangle 2105.png",
-          "/img/Rectangle 2106.png"
+          "./img/Rectangle2103.png",
+          "./img/Rectangle2104.png",
+          "./img/Rectangle2105.png",
+          "./img/Rectangle2106.png"
       ]
     },
     {
@@ -42,10 +42,10 @@
       "description":"Increase your team’s productivity and save time with a bot that answers and fields customer inquiries",
       "cardImage": [
 
-          "/img/Rectangle 2107.png",
-          "/img/Rectangle 2108.png",
-          "/img/Rectangle 2109.png",
-          "/img/Rectangle 2110.png"
+          "./img/Rectangle2107.png",
+          "./img/Rectangle2108.png",
+          "./img/Rectangle2109.png",
+          "./img/Rectangle2110.png"
       ]
     }
   ]

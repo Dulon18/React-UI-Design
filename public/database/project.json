@@ -2,22 +2,22 @@
   "project": [
     {
       "id": 1,
-      "image": "/img/project 1.png",
+      "image": "./img/project 1.png",
       "title": "Lorem ipsum dolor sit consectutar"
     },
     {
       "id": 2,
-      "image": "/img/project 2.png",
+      "image": "./img/project 2.png",
       "title": "Lorem ipsum dolor sit consectutar"
     },
     {
       "id": 3,
-      "image": "/img/project 3.png",
+      "image": "./img/project 3.png",
       "title": "Lorem ipsum dolor sit consectutar"
     },
     {
       "id": 4,
-      "image": "/img/project 4.png",
+      "image": "./img/project 4.png",
       "title": "Lorem ipsum dolor sit consectutar"
     }
   ]
