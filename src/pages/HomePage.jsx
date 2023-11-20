@@ -138,7 +138,7 @@ const HomePage = () => {
                          </div>
                          <div className='container m-auto p-4 flex gap-12'>
                               <div className="grid-col-6">
-                                   <img src="src/assets/Mask1.png" alt="" />
+                                   <img src="/img/Mask1.png" alt="" />
                                    <div className='py-4'>
                                         <p className='text-base text-gray-400 font-semibold'>App Design - June 20, 2022</p>
                                         <p className='text-2xl font-bold py-3'>App Redesign</p>
@@ -147,14 +147,14 @@ const HomePage = () => {
                               <div className="flex flex-row gap-5">
                                    <div className="flex flex-col">
                                         <div className="basis-1/4 flex-wrap">
-                                             <img src="src/assets/Mask.png" alt="" />
+                                             <img src="/img/Mask.png" alt="" />
                                              <div className='py-5'>
                                                   <p className='text-base text-gray-400 font-semibold'>App Design - June 20, 2022</p>
                                                   <p className='text-xl font-bold py-3'>Redesign channel website landng page</p>
                                              </div>
                                         </div>
                                         <div className="basis-1/4 flex-wrap">
-                                             <img src="src/assets/Mask4.png" alt="" />
+                                             <img src="/img/Mask4.png" alt="" />
                                              <div className='py-5'>
                                                   <p className='text-base text-gray-400 font-semibold'>App Design - June 20, 2022</p>
                                                   <p className='text-xl font-bold py-3'>Redesign channel website landng page</p>
@@ -163,14 +163,14 @@ const HomePage = () => {
                                    </div>
                                    <div className='flex flex-col'>
                                         <div className="basis-1/4 flex-wrap">
-                                             <img src="src/assets/Mask2.png" alt="" />
+                                             <img src="/img/Mask2.png" alt="" />
                                              <div className='py-5'>
                                                   <p className='text-base text-gray-400 font-semibold'>App Design - June 20, 2022</p>
                                                   <p className='text-xl font-bold py-3 '>Redesign channel website landng page</p>
                                              </div>
                                         </div>
                                         <div className="basis-1/4 flex-wrap">
-                                             <img src="src/assets/Mask3.png" alt="" />
+                                             <img src="/img/Mask3.png" alt="" />
                                              <div className='py-5'>
                                                   <p className='text-base text-gray-400 font-semibold'>App Design - June 20, 2022</p>
                                                   <p className='text-xl font-bold py-3'>Redesign channel website landng page</p>
