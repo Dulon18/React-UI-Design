@@ -77,11 +77,11 @@ const HomePage = () => {
                          <div className='bg-white h-28 p-5'>
                               <div className='container mx-auto p-4 flex gap-32'>
                                    <div className='grid lg:grid-cols-5 md:grid-cols-5 sm:grid-cols-2' >
-                                        <div className='px-20 py-4'><img src="/img/logos_google.png" /></div>
-                                        <div className='px-20 py-4'><img src="/img/Trello-logo-blue 1.png" /></div>
-                                        <div className='px-20 py-4'><img src="/img/logos_monday.png" /></div>
-                                        <div className='px-20 py-4'><img src="/img/Notion.png" /></div>
-                                        <div className='px-20 py-4'><img src="/img/Slack.png" /></div>
+                                        <div className='px-20 py-4'><img src="./img/logos_google.png" /></div>
+                                        <div className='px-20 py-4'><img src="./img/Trello-logo-blue 1.png" /></div>
+                                        <div className='px-20 py-4'><img src="./img/logos_monday.png" /></div>
+                                        <div className='px-20 py-4'><img src="./img/Notion.png" /></div>
+                                        <div className='px-20 py-4'><img src="./img/Slack.png" /></div>
                                    </div>
                               </div>
                          </div>
@@ -138,7 +138,7 @@ const HomePage = () => {
                          </div>
                          <div className='container m-auto p-4 flex gap-12'>
                               <div className="grid-col-6">
-                                   <img src="/img/Mask1.png" alt="" />
+                                   <img src="./img/Mask1.png" alt="" />
                                    <div className='py-4'>
                                         <p className='text-base text-gray-400 font-semibold'>App Design - June 20, 2022</p>
                                         <p className='text-2xl font-bold py-3'>App Redesign</p>
@@ -147,14 +147,14 @@ const HomePage = () => {
                               <div className="flex flex-row gap-5">
                                    <div className="flex flex-col">
                                         <div className="basis-1/4 flex-wrap">
-                                             <img src="/img/Mask.png" alt="" />
+                                             <img src="./img/Mask.png" alt="" />
                                              <div className='py-5'>
                                                   <p className='text-base text-gray-400 font-semibold'>App Design - June 20, 2022</p>
                                                   <p className='text-xl font-bold py-3'>Redesign channel website landng page</p>
                                              </div>
                                         </div>
                                         <div className="basis-1/4 flex-wrap">
-                                             <img src="/img/Mask4.png" alt="" />
+                                             <img src="./img/Mask4.png" alt="" />
                                              <div className='py-5'>
                                                   <p className='text-base text-gray-400 font-semibold'>App Design - June 20, 2022</p>
                                                   <p className='text-xl font-bold py-3'>Redesign channel website landng page</p>
@@ -163,14 +163,14 @@ const HomePage = () => {
                                    </div>
                                    <div className='flex flex-col'>
                                         <div className="basis-1/4 flex-wrap">
-                                             <img src="/img/Mask2.png" alt="" />
+                                             <img src="./img/Mask2.png" alt="" />
                                              <div className='py-5'>
                                                   <p className='text-base text-gray-400 font-semibold'>App Design - June 20, 2022</p>
                                                   <p className='text-xl font-bold py-3 '>Redesign channel website landng page</p>
                                              </div>
                                         </div>
                                         <div className="basis-1/4 flex-wrap">
-                                             <img src="/img/Mask3.png" alt="" />
+                                             <img src="./img/Mask3.png" alt="" />
                                              <div className='py-5'>
                                                   <p className='text-base text-gray-400 font-semibold'>App Design - June 20, 2022</p>
                                                   <p className='text-xl font-bold py-3'>Redesign channel website landng page</p>
