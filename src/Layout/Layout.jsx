@@ -54,10 +54,10 @@ const Layout = ({children}) => {
                                  Some footer text about the Agency. Just a little description to help people understand you better.
                               </p>
                               <div className="flex mt-4">
-                                   <img className='bg-green-600 p-2  rounded-full' src="/img/fb.png" alt="" />
-                                   <img className='bg-green-600 p-2  rounded-full mx-3' src="/img/twitter.png" alt="" />
-                                   <img className='bg-green-600 p-2  rounded-full' src="/img/linkedin.png" alt="" />
-                                   <img className='bg-green-600 p-2  rounded-full mx-3' src="/img/insta.png" alt="" />
+                                   <img className='bg-green-600 p-2  rounded-full' src="./img/fb.png" alt="" />
+                                   <img className='bg-green-600 p-2  rounded-full mx-3' src="./img/twitter.png" alt="" />
+                                   <img className='bg-green-600 p-2  rounded-full' src="./img/linkedin.png" alt="" />
+                                   <img className='bg-green-600 p-2  rounded-full mx-3' src="./img/insta.png" alt="" />
 
                               </div>
                               <h3 className='text-lg font-Avenir mt-5'>Copyright Design Agency 2022</h3>

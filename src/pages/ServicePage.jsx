@@ -7,7 +7,7 @@ const ServicePage = () => {
      useEffect(() => {
           const fetchData = async () => {
                try {
-                    const response = await fetch('/database/services.json');
+                    const response = await fetch('./database/services.json');
                     const data = await response.json();
                     setService(data.services);
                } catch (error) {

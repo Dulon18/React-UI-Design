@@ -8,7 +8,7 @@ const TestimonialPage = () => {
      useEffect(() => {
           const fetchData = async () => {
                try {
-                    const response = await fetch('/database/testimonial.json');
+                    const response = await fetch('./database/testimonial.json');
                     const data = await response.json();
                     setTestimonial(data.testimonial);
                } catch (error) {

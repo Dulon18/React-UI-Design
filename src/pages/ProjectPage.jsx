@@ -7,7 +7,7 @@ const ProjectPage = () => {
      useEffect(() => {
           const fetchData = async () => {
                try {
-                    const response = await fetch('/database/project.json');
+                    const response = await fetch('./database/project.json');
                     const data = await response.json();
                     setProject(data.project);
                } catch (error) {

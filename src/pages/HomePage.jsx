@@ -11,7 +11,7 @@ const HomePage = () => {
      useEffect(() => {
           const fetchData = async () => {
                try {
-                    const response = await fetch('/database/workList.json');
+                    const response = await fetch('./database/workList.json');
                     const data = await response.json();
                     setWorkList(data.workList);
                } catch (error) {
@@ -25,7 +25,7 @@ const HomePage = () => {
      useEffect(() => {
           const fetchCounterData = async () => {
                try {
-                    const response = await fetch('/database/counter.json');
+                    const response = await fetch('./database/counter.json');
                     const data = await response.json();
                     setCounters(data.counter);
                } catch (error) {
@@ -74,9 +74,9 @@ const HomePage = () => {
                          </div>
 
                          {/* our patner */}
-                         <div className='bg-white h-28 p-5'>
-                              <div className='container mx-auto p-4 flex gap-32'>
-                                   <div className='grid lg:grid-cols-5 md:grid-cols-5 sm:grid-cols-2' >
+                         <div className='bg-white h-28'>
+                              <div className='container mx-auto flex gap-32 justify-center'>
+                                   <div className='grid lg:grid-cols-5 md:grid-cols-5 sm:grid-cols-2 m-5' >
                                         <div className='px-20 py-4'><img src="./img/logos_google.png" /></div>
                                         <div className='px-20 py-4'><img src="./img/Trello-logo-blue 1.png" /></div>
                                         <div className='px-20 py-4'><img src="./img/logos_monday.png" /></div>

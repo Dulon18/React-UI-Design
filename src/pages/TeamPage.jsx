@@ -8,7 +8,7 @@ const TeamPage = () => {
      useEffect(() => {
           const fetchData = async () => {
                try {
-                    const response = await fetch('/database/teamMember.json');
+                    const response = await fetch('./database/teamMember.json');
                     const data = await response.json();
                     setTeam(data.team);
                } catch (error) {
