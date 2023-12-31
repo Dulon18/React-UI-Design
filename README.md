@@ -14,6 +14,8 @@ Live site: https://dulon18.github.io/React-UI-Design/
 
 ![testimonial](https://github.com/Dulon18/React-UI-Design/assets/80118217/cdcbd70d-f827-477f-aa42-cc0577597c9c)
 
+![footer](https://github.com/Dulon18/React-UI-Design/assets/80118217/53eee217-46ce-4267-9f13-799938697d8a)
+
 
 
 <p align="center"><span style="color: red;">&hearts;</span> Thank You <span style="color: red;">&hearts;</span></p>
